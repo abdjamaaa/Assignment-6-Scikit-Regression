@@ -1,6 +1,4 @@
-# Assignment-6-Scikit-Regression
 # Scikit Learn Regression: Analysis of Diabetes Data Set
-
 
 ## Purpose of Analysis
 This analysis was conducted using Python and Scikit Learn in order to predict the progression of diabetes from a dataset that comes included with Scikit Learn. Three different models were built using the training data in order to find the best model to represent this health related dataset.
