@@ -11,5 +11,5 @@ The Analysis of the Diabetes dataset is done using an Object Oriented Programmin
   * train_and_evaluate(): Iterate over the List of Models and Train Each Model on the Training Data, Generate Predictions for Each Model, Calculate and Save the Metrics for Each Model (MSE, RMSE, MAE, R2).
   * display_results(): Print Out the Formatted Metrics from train_and_evaluate() and Automatically Identify the Best Model.
    
-  *** Limitations:*** 
+  ***Limitations*** 
   Implemented StandardScaler so that models that are sensitive to feature scales such as Ridge use the same scale. Used Ridge Regression instead of Standard Linear Regression to reduce risk of overfitting and eliminate any potential multicollinearity with the Medical Features.
